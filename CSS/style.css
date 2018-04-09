@@ -1,1 +1,88 @@
 /******************************************************************************************/
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+/******************************************************************************************/
+/*********************************** header ***********************************************/
+/******************************************************************************************/
+#header{
+    height: 70px;
+    border-bottom: 1px solid green;
+}
+
+/**********************************************/
+
+#header #headerLeft{
+    float: left;
+}
+
+#header #headerLeft img#menu{
+    width: 50px;
+    height: 20px;
+    margin-left: 100px;
+}
+
+#header #headerLeft a{}
+
+#header #headerLeft a img{
+    width: 250px;
+    height: 20px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+/**********************************************/
+
+#header #headerRight{
+    float: right;
+}
+
+#header #headerRight p{
+    float: left;
+    background-color: #ffd200;
+    margin-top: 18px;
+    margin-right: 50px;
+    padding: 7px 20px;
+    border-radius: 10px;
+    text-decoration: underline;
+}
+
+#header #headerRight img{
+    float: left;
+    width: 25px;
+    height: 30px;
+    margin-top: 20px;
+    margin-right: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
