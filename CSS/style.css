@@ -398,7 +398,7 @@
 /******************************** howToMakeBook *******************************************/
 /******************************************************************************************/
 #howToMakeBook{
-    height: 350px;
+    height: 480px;
     border: 1px solid red;
     padding-top: 20px;
     position: relative;
@@ -441,8 +441,6 @@
     text-transform: uppercase;
 }
 
-
-
 #howToMakeBook #howToMakeBookLink{
     padding: 10px 20px;
     background-color: #e11a27;
@@ -451,7 +449,7 @@
     text-decoration: none;
     text-transform: uppercase;
     position: absolute;
-    bottom: 10px;
+    bottom: 100px;
     left: 500px;
     font-size: 24px;
     font-weight: lighter;
