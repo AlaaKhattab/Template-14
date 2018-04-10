@@ -100,7 +100,6 @@
 /************************************ list ************************************************/
 /******************************************************************************************/
 #list{
-    border-bottom: 1px solid red;
     height: 220px;
     padding-top: 60px;
 }
@@ -138,6 +137,76 @@
     margin-top: 50px;
     border: 2px dashed #ffd200;
 }
+
+
+/******************************************************************************************/
+/********************************* advantage **********************************************/
+/******************************************************************************************/
+
+#advantage{
+    height: 600px;
+    padding-top: 50px;
+    background-color: #f3f0e7;
+    text-align: center;
+}
+
+#advantage h1{
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+#advantage h1::first-letter{
+    font-size: 40px;
+}
+
+
+#advantage .advantageBlock{
+    float: left;
+    width: 300px;
+    height: 350px;
+    margin-left: 110px;
+    margin-top: 30px;
+}
+
+#advantage .advantageBlock img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+#advantage .advantageBlock h3{
+    text-align: center;
+    margin-top: 20px;
+    font-weight: lighter;
+}
+
+#advantage .advantageBlock p{
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+#advantage a{
+    text-align: center;
+    
+    color: white;
+    background-color: #e11a27;
+    
+    width: 300px;
+    
+    float: left;
+    padding: 20px 30px;
+    
+    margin-left: 500px;
+    margin-top: 50px;
+    
+    border-radius: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
 
 
 
