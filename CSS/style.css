@@ -394,3 +394,82 @@
 
 
 
+/******************************************************************************************/
+/******************************** howToMakeBook *******************************************/
+/******************************************************************************************/
+#howToMakeBook{
+    height: 350px;
+    border: 1px solid red;
+    padding-top: 20px;
+    position: relative;
+}
+
+#howToMakeBook .howToMakeBookBlock{
+    width: 250px;
+    float: left;
+    margin-left: 50px;
+}
+
+#howToMakeBook .howToMakeBookBlock h3{
+    text-align: center;
+    height: 40px;
+    padding-top: 20px;
+}
+
+#howToMakeBook .howToMakeBookBlock .howToMakeBookBlockData{
+    height: 150px;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+#howToMakeBook .howToMakeBookBlock .howToMakeBookBlockData p{
+    margin-bottom: 10px;
+}
+#howToMakeBook .howToMakeBookBlock .howToMakeBookBlockData ul{
+    list-style-position: inside;
+    margin-left: 10px;
+}
+#howToMakeBook .howToMakeBookBlock .howToMakeBookBlockData ul li{
+    margin-bottom: 10px;
+}
+#howToMakeBook .howToMakeBookBlock .howToMakeBookBlockData a{
+    color: #e11a27;
+    text-decoration: none;
+    font-weight: bold;
+}
+#howToMakeBook .howToMakeBookBlock .howToMakeBookBlockData a span{
+    text-transform: uppercase;
+}
+
+
+
+#howToMakeBook #howToMakeBookLink{
+    padding: 10px 20px;
+    background-color: #e11a27;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    position: absolute;
+    bottom: 10px;
+    left: 500px;
+    font-size: 24px;
+    font-weight: lighter;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
