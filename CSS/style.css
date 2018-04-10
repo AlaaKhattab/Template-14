@@ -399,8 +399,7 @@
 /******************************************************************************************/
 #howToMakeBook{
     height: 480px;
-    border: 1px solid red;
-    padding-top: 20px;
+    padding-top: 50px;
     position: relative;
 }
 
@@ -496,15 +495,6 @@
 #footer p{
     font-size: 16px;
 }
-
-<div id="footer">
-            <p>&copy; 2015 PhotoBook. All Rights Reserved</p>
-            <p>Code by Aalaa Khattab @ 2018</p>
-        </div>
-
-
-
-
 
 
 
