@@ -96,6 +96,62 @@
 }
 
 
+/******************************************************************************************/
+/************************************ list ************************************************/
+/******************************************************************************************/
+#list{
+    border-bottom: 1px solid red;
+    height: 220px;
+    padding-top: 60px;
+}
+
+#list .listBlock{
+    float: left;
+}
+
+#list .listBlock .listImage{
+    float: left;
+    border: 5px solid #ffd200;
+    border-radius: 50%;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+#list .listBlock .listImage img{
+    width: 50px;
+    height: 50px;
+}
+
+
+#list .listBlock .listData{
+    text-align: center;
+}
+
+#list .listBlock .listData p{
+    width: 100px;
+    margin-left: 10px;
+}
+
+#list .listBreak{
+    float: left;
+    width: 150px;
+    margin-top: 50px;
+    border: 2px dashed #ffd200;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
