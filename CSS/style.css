@@ -207,11 +207,95 @@
     letter-spacing: 5px;
 }
 
+/******************************************************************************************/
+/********************************* solutions **********************************************/
+/******************************************************************************************/
+#solutions{
+    height: 520px;
+    padding-top: 20px;
+}
+
+#solutions h1{
+    text-align: center;
+    font-weight: lighter;
+    font-size: 32px;
+    text-transform: uppercase;
+}
+
+#solutions h1::first-letter{
+    font-size: 40px;
+}
+
+#solutions .solutionsBlock{
+    float: left;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+#solutions .solutionsBlock .solutionsBlockType{
+    background-repeat: no-repeat;
+    height: 50px;
+    margin-bottom: -5px;
+    margin-left: 50px;
+    background-size: 100% 100%;
+    width: 150px;
+}
+
+#solutions .solutionsBlock .solutionsBlockDetails{
+    height: 300px;
+    width: 250px;
+    background-size: 100% 100%;
+    padding-top: 20px;
+}
+
+#solutions .solutionsBlock .solutionsBlockDetails h2{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#solutions .solutionsBlock .solutionsBlockDetails h2::first-letter{
+    font-size: 30px;
+}
+
+#solutions .solutionsBlock .solutionsBlockDetails .solutionsBlockDetailsInfo{
+    background-color: white;
+    
+    width: 200px;
+    height: 200px;
+    
+    margin-top: 20px;
+    margin-left: 20px;
+    position: relative;
+}
+
+#solutions .solutionsBlock .solutionsBlockDetails .solutionsBlockDetailsInfo ul{
+    margin-left: 20px;
+    padding-top: 20px;
+}
+
+#solutions .solutionsBlock .solutionsBlockDetails .solutionsBlockDetailsInfo ul li{
+    margin-bottom: 5px;
+}
+
+#solutions .solutionsBlock .solutionsBlockDetails .solutionsBlockDetailsInfo p{
+    font-size: 30px;
+    position: absolute;
+    bottom: 10px;
+    left: 50px;
+}
 
 
+#solutions .solutionsBlock .solutionsBlockDetails h5{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: lighter;
+}
 
-
-
+#solutions .solutionsBlock .solutionsBlockDetails h5::first-letter{
+    
+}
 
 
 
